@@ -22,8 +22,7 @@ class main_window(QtGui.QMainWindow):
         self.move(0, 0)
         self.setStyleSheet("background-color: black;")
 
-
-
+# Notify Dialog Class, Handy for alerting an Error or Success to the user.
 
 class notify_dialog(QtGui.QWidget):
 
