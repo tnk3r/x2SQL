@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
-#QT Version
+#QT Version, 
 
+version = "0.100"
 from PyQt4 import QtGui, QtCore
 import subprocess, time, sys, os
 from fontlib import fontlib
